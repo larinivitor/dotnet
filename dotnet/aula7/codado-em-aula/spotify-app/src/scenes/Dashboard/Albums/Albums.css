@@ -1,0 +1,31 @@
+.Pets{
+    display: flex;
+    height: 100%;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Pets--content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.Pets--item{
+    width: 350px;
+    margin: 20px;
+}
+
+.Pets--empty{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+

@@ -1,0 +1,17 @@
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.deps.json
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.runtimeconfig.json
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.runtimeconfig.dev.json
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.pdb
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Crescer.Malaysia.Dominio.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\bin\Debug\netcoreapp2.0\Crescer.Malaysia.Dominio.pdb
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\obj\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.csprojAssemblyReference.cache
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\obj\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.csproj.CoreCompileInputs.cache
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\obj\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.AssemblyInfoInputs.cache
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\obj\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.AssemblyInfo.cs
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\obj\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.csproj.CopyComplete
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\obj\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\test\Crescer.Malaysia.Tests\obj\Debug\netcoreapp2.0\Crescer.Malaysia.Tests.pdb

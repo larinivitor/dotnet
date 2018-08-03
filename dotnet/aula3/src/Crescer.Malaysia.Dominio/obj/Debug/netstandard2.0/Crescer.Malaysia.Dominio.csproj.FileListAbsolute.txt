@@ -1,0 +1,9 @@
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\bin\Debug\netstandard2.0\Crescer.Malaysia.Dominio.deps.json
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\bin\Debug\netstandard2.0\Crescer.Malaysia.Dominio.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\bin\Debug\netstandard2.0\Crescer.Malaysia.Dominio.pdb
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\obj\Debug\netstandard2.0\Crescer.Malaysia.Dominio.csprojAssemblyReference.cache
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\obj\Debug\netstandard2.0\Crescer.Malaysia.Dominio.csproj.CoreCompileInputs.cache
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\obj\Debug\netstandard2.0\Crescer.Malaysia.Dominio.AssemblyInfoInputs.cache
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\obj\Debug\netstandard2.0\Crescer.Malaysia.Dominio.AssemblyInfo.cs
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\obj\Debug\netstandard2.0\Crescer.Malaysia.Dominio.dll
+c:\Crescer\repositorio-fabio\instrutores-dotnet\aula2\src\Crescer.Malaysia.Dominio\obj\Debug\netstandard2.0\Crescer.Malaysia.Dominio.pdb
